@@ -168,4 +168,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+lab01/quora.txt
+lab01/cc.uk.300.vec
+lab01/cc.ru.300.vec
 lab02/Train_rev1.csv
