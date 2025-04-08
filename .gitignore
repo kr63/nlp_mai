@@ -173,3 +173,8 @@ lab01/cc.uk.300.vec
 lab01/cc.ru.300.vec
 lab02/Train_rev1.csv
 lab03/arxivData.*
+lab04/bpe_rules.*
+lab04/data.txt
+lab04/log
+lab04/train.*
+lab04/vocab.py
