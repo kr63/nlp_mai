@@ -178,3 +178,4 @@ lab04/data.txt
 lab04/log
 lab04/train.*
 lab04/vocab.py
+lab05/checkpoints/
